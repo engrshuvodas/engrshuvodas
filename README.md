@@ -1,4 +1,4 @@
-![logo](https://github.com/engrshuvodas/engrshuvodas/blob/main/Blue%20%26%20Pink%20Gradient%20Music%20Youtube%20Channel%20Art.png)
+![logo](https://github.com/engrshuvodas/engrshuvodas/blob/main/Shuvo%20Das.png)
 <h1 align="center">Hi 👋, I'm Engr. Shuvo Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400px" align="right">
