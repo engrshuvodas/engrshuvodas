@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Engr. Shuvo Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-<img align="right" alt="coding" width="400" src"https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400px" align="right">
+<!-- <img src"https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="coding" width="400"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engrshuvodas&label=Profile%20views&color=0e75b6&style=flat" alt="engrshuvodas" /> </p>
 
 - 🔭 I’m currently working on [LMS Point](https://engrshuvodas.github.io/Responsive-LMS-Website-using-HTML-CSS-JavaScript-Bootstrap-5-Shuvo/)
