@@ -1,7 +1,5 @@
-![logo](https://github.com/engrshuvodas/engrshuvodas/blob/main/Shuvo%20Das.png)
-
 <h1 align="center">Hi 👋, I'm Engr. Shuvo Das</h1>
-<h3 align="center">I am a Web designer Web developmenter and WordPress with skilled in in HTML, WordPress, CSS, JavaScript, bootstrap, PHP etc as a well as template platforms including, WordPress. I provide modern high-quality designs. If you need a new website or just want to update the style or functionality of your current site, I'm here to help.</h3>
+<h3 align="center">I am a Web Designer & Developer and WordPress with skills in HTML, WordPress, CSS, JavaScript, Bootstrap, PHP etc as well as template platforms including, WordPress. I provide modern high-quality designs. If you need a new website or just want to update the style or functionality of your current site, I'm here to help.</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engrshuvodas&label=Profile%20views&color=0e75b6&style=flat" alt="engrshuvodas" /> </p>
