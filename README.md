@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://engrshuvodas.github.io/SHUVO-_portfolio/](https://engrshuvodas.github.io/SHUVO-_portfolio/)
 
-- 📝 I regularly write articles on [https://www.facebook.com/engrshuvo2003/](https://www.facebook.com/engrshuvo2003/)
+- 📝 I regularly write articles on [https://www.facebook.com/engr.shuvo74886/](https://www.facebook.com/engr.shuvo74886/)
 
 - 💬 Ask me about **Of course! Let's start with a general question: Can you tell me about an example of a hobby or activity you're passionate about?**
 
