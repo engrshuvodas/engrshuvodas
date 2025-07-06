@@ -20,7 +20,11 @@
 
 - 📄 Know about my experiences [https://engrshuvodas.github.io/SHUVO-_portfolio/](https://engrshuvodas.github.io/SHUVO-_portfolio/)
 
-- ⚡ Fun fact **I am funny 😅**
+## 📬 Contact Me Instantly (No Login Needed)
+
+[![Send me a message — click here](https://img.shields.io/badge/Send%20me%20a%20message-Click%20Here-brightgreen?style=for-the-badge)](https://engrshuvodas.github.io/Submit-Text-to-Shuvo/)
+
+*Just hit the badge above and drop any text — no login required! Your message reaches me directly.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
