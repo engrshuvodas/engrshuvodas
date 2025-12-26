@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Rydoo-Map-Tracker](https://github.com/engrshuvodas/Rydoo-Map-Tracker)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Python**
 
 - ## 📬 Contact Me - +880 1765-245872
 
