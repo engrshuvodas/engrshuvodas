@@ -74,7 +74,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/engrshuvodj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="engrshuvodj" /></a><a href="https://ko-fi.com/O5O7OT834"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="O5O7OT834" /></a></p><br><br>
-
+</br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrshuvodas&show_icons=true&locale=en&layout=compact" alt="engrshuvodas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrshuvodas&show_icons=true&locale=en" alt="engrshuvdas" /></p>
