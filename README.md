@@ -77,4 +77,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrshuvodas&show_icons=true&locale=en&layout=compact" alt="engrshuvodas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrshuvodas&show_icons=true&locale=en" alt="engrshuvodas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrshuvodas&show_icons=true&locale=en" alt="engrshuvdas" /></p>
