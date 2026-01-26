@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Super Duper Potato](https://engrshuvodas.github.io/Super-Duper-Potato/)
 
-- 👨‍💻 All of my projects are available at [https://engrshuvodas.github.io/SHUVO-_portfolio/](https://engrshuvodas.github.io/SHUVO-_portfolio/)
+- 👨‍💻 All of my projects are available at [https://engrshuvodas.github.io/me/](https://engrshuvodas.github.io/me)
 
 - 📝 I regularly write articles on [https://www.facebook.com/engr.shuvo74886/](https://www.facebook.com/engr.shuvo74886/)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **engrshuvoda@gmail.com**
 
-- 📄 Know about my experiences [https://engrshuvodas.github.io/SHUVO-_portfolio/](https://engrshuvodas.github.io/SHUVO-_portfolio/)
+- 📄 Know about my experiences [https://engrshuvodas.github.io/me](https://engrshuvodas.github.io/me)
 
 ## 📬 Contact Me Instantly (No Login Needed)
 
