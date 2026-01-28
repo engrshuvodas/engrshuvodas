@@ -14,6 +14,7 @@
 
 I am a **Software Engineer** with a strong background in both web development and desktop software development. Over the years, I’ve worked with clients across the USA, Canada, Australia & beyond, building more than **150 websites**. My goal is simple — to create tools and platforms that make marketing easier, smarter & more effective.
 
+<<<<<<< HEAD
 - 🔭 I’m currently working as the **Founder of [WASendX](https://github.com/engrshuvodas)** — a smart and powerful WhatsApp Marketing Software.
 - � I’m currently learning **Python & Advanced Lead Generation Automation**.
 - �🎓 **B.Tech in Computer Science & Engineering** from Parul University, India.
@@ -22,6 +23,9 @@ I am a **Software Engineer** with a strong background in both web development an
 - � I regularly write articles on [Facebook](https://www.facebook.com/engr.shuvo74886/)
 - 💬 Ask me about **Web Development, WhatsApp Marketing, or SEO**.
 - 📫 How to reach me: **engrshuvoda@gmail.com**
+=======
+- 👨‍💻 All of my projects are available at [https://engrshuvodas.github.io/SHUVO-_portfolio/](https://engrshuvodas.github.io/SHUVO-_portfolio/)
+>>>>>>> parent of 6eee53b (Update README.md)
 
 ---
 
@@ -40,7 +44,11 @@ I am a **Software Engineer** with a strong background in both web development an
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<<<<<<< HEAD
 ### 🎨 Design & Tools
+=======
+- 📄 Know about my experiences [https://engrshuvodas.github.io/SHUVO-_portfolio/](https://engrshuvodas.github.io/SHUVO-_portfolio/)
+>>>>>>> parent of 6eee53b (Update README.md)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
