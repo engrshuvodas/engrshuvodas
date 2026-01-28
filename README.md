@@ -108,5 +108,5 @@ I am a **Software Engineer** with a strong background in both web development an
 ---
 
 <p align="center">
-  <i>Elite Developer Profile Crafted with ❤️ by engrshuvodas</i>
+  <i>Elite Developer Profile Crafted with ❤️ by engr shuvo das</i>
 </p>
