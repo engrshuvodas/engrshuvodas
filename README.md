@@ -10,7 +10,7 @@
 
 - ## 📬 Contact Me - +880 1765-245872
 
-- 👯 I’m looking to collaborate on [Super Duper Potato](https://engrshuvodas.github.io/Super-Duper-Potato/)
+- 👯 I’m looking to collaborate on [WASender v4 Update](https://github.com/engrshuvodas/WASender-v4-Update)
 
 - 👨‍💻 All of my projects are available at [https://engrshuvodas.github.io/me/](https://engrshuvodas.github.io/me/)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **engrshuvoda@gmail.com**
 
-- 📄 Know about my experiences [https://engrshuvodas.github.io/me/](https://engrshuvodas.github.io/me/)
+- 📄 Know about my experiences [linkedin.com/in/engrshuvoda](https://www.linkedin.com/in/engrshuvoda/)
 
 ## 📬 Contact Me Instantly (No Login Needed)
 
