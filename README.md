@@ -10,7 +10,7 @@
 
 - ## 📬 Contact Me - +880 1765-245872
 
-- 👯 I’m looking to collaborate on [WASender v4 Update](https://github.com/engrshuvodas/WASender-v4-Update)
+- 👯 I’m looking to collaborate on [PaiseGone v2.2](https://paise-gone.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://engrshuvodas.github.io/me/](https://engrshuvodas.github.io/me/)
 
