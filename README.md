@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [PaiseGone v2.2](https://paise-gone.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://engrshuvodas.github.io/me/](https://engrshuvodas.github.io/me/)
+- 👨‍💻 All of my projects are available at [https://engr-shuvo-portfolio.vercel.app/](https://engr-shuvo-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.facebook.com/engr.shuvo74886/](https://www.facebook.com/engr.shuvo74886/)
 
