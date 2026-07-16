@@ -1,84 +1,234 @@
-<h1 align="center">Hi 👋, I'm Engr. Shuvo Das</h1>
-<h3 align="center">I am a Web Designer & Developer and WordPress with skills in HTML, WordPress, CSS, JavaScript, Bootstrap, PHP etc as well as template platforms including, WordPress. I provide modern high-quality designs. If you need a new website or just want to update the style or functionality of your current site, I'm here to help.</h3>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400px" align="right">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hello!+%F0%9F%91%8B+I'm+Engr+Shuvo+Das;Full+Stack+Developer+%7C+Digital+Marketer;Turning+Ideas+Into+Working+Software" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engrshuvodas&label=Profile%20views&color=0e75b6&style=flat" alt="engrshuvodas" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=engrshuvodas&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
 
-- 🔭 I’m currently working on [WhatsApp-Marketing-Software](https://engrshuvodas.github.io/WASender)
-
-- 🌱 I’m currently learning **Python**
-
-- ## 📬 Contact Me -> +91 96417-00503
-
-- 👯 I’m looking to collaborate on [PaiseGone v2.2](https://paise-gone.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://engr-shuvo-portfolio.vercel.app/)
-
-- 📝 I regularly write articles on [https://www.facebook.com/engr.shuvo74886/](https://www.facebook.com/engr.shuvo74886/)
-
-- 💬 Ask me about **Of course! Let's start with a general question: Can you tell me about an example of a hobby or activity you're passionate about?**
-
-- 📫 How to reach me **engrshuvoda@gmail.com**
-
-- 📄 Know about my experiences [linkedin.com/in/engrshuvoda](https://www.linkedin.com/in/engrshuvoda/)
-
-## 📬 Contact Me Instantly (No Login Needed)
-
-[![Send me a message — click here](https://img.shields.io/badge/Send%20me%20a%20message-Click%20Here-brightgreen?style=for-the-badge)](https://engrshuvodas.github.io/Submit-Text-to-Shuvo/)
-
-*Just hit the badge above and drop any text — no login required! Your message reaches me directly.*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/21494111/shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/21494111/shuvo" height="30" width="40" /></a>
-<a href="[https://fb.com/engr.shuvo74886](https://www.facebook.com/engr.shuvo74886/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engrshuvo2003" height="30" width="40" /></a>
-<a href="https://instagram.com/shuvo.das.74886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuvo.das.74886" height="30" width="40" /></a>
-<a href="https://dribbble.com/shuvo2003/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shuvo2003" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCEJ0R871tF2PLT27q9azYWg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@engrshuvodas" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+  <a href="https://github.com/engrshuvodas?tab=followers">
+    <img src="https://img.shields.io/github/followers/engrshuvodas?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  <a href="https://github.com/engrshuvodas?tab=repositories">
+    <img src="https://img.shields.io/github/stars/engrshuvodas?label=Stars&style=social" alt="GitHub Stars" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-</p>
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Try WASender Free — WhatsApp Marketing Software
+
+<a href="https://wasender-pro.vercel.app/">
+  <img src="https://img.shields.io/badge/Download_Free_Trial-WASender-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E" />
+</a>
+
+### 🧑‍💻 Know Me Better — Full Portfolio
+
+<a href="https://engr-shuvo-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/View_My_Portfolio-Details_About_Me-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+### 💬 Got an idea? Let's build it — one message away
+
+<a href="https://wa.me/919641700503">
+  <img src="https://img.shields.io/badge/WhatsApp-+91_9641700503-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="mailto:engrshuvoda@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-engrshuvoda@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/engrshuvoda/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.fiverr.com/shuvo_das74886">
+  <img src="https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+class engr_shuvo_das:
+    def __init__(self):
+        self.name = "Engr Shuvo Das"
+        self.role = "Full Stack Developer | Digital Marketer"
+        self.location = "Gujarat, India 🇮🇳"
+        self.education = "B.Tech in Computer Science Engineering, Parul University"
+        self.freelance = "Fiverr Level 2 Seller | International Client Experience"
+        self.skills = ["JavaScript", "Python", "Java", "MySQL", "MongoDB",
+                       "Next.js", "WordPress", "SEO", "Cybersecurity"]
+
+    def interests(self):
+        return ["Web Design", "Digital Marketing", "Crypto Trading", "Exploring Nature's Beauty"]
+```
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+</div>
+
+---
+
+## 🎯 Projects
+
+```python
+projects = [
+    {"name": "WASender",           "desc": "Desktop WhatsApp bulk messaging & automation software",
+     "link": "wasender-pro.vercel.app"},
+
+    {"name": "TGTools",            "desc": "Telegram marketing automation suite",
+     "link": "github.com/engrshuvodas/TGTools-v1.0.0"},
+
+    {"name": "Qualify Bulk Mailer","desc": "Email marketing and bulk campaign software",
+     "link": "github.com/engrshuvodas/Qualify-Bulk-Mailer-v3.0"},
+
+    {"name": "RaktSeva",           "desc": "Blood bank management system — donor, request & inventory management",
+     "link": "github.com/engrshuvodas/RaktSeva"},
+
+    {"name": "LMS-POINT",          "desc": "Modern, fully responsive online education platform built with Bootstrap 5",
+     "link": "engrshuvodas.github.io/LMS-POINT"},
+
+    {"name": "Shuky",              "desc": "Human-like typing automation tool with realistic delays and a Tkinter GUI",
+     "link": "github.com/engrshuvodas/Shuky"},
+
+    {"name": "PaiseGone",          "desc": "Expense tracker for mess-sharing students & professionals",
+     "link": "github.com/engrshuvodas/PaiseGone"},
+
+    {"name": "WeCare",             "desc": "Community support platform",
+     "link": "github.com/engrshuvodas/WeCare"},
+
+    {"name": "Do You Love Me?",    "desc": "Playful interactive HTML mini-project with floating hearts & typing effects",
+     "link": "github.com/engrshuvodas/LoveFunCode"},
+]
+```
+
+---
+
+<div align="center">
+
+### 📬 Contact Me Instantly (No Login Needed)
+
+<a href="https://engrshuvodas.github.io/Submit-Text-to-Shuvo/">
+  <img src="https://img.shields.io/badge/Send_a_Message-Click_Here-brightgreen?style=for-the-badge" />
+</a>
+
+*Just hit the badge above and drop any text — no login required, your message reaches me directly.*
+
+</div>
+
+---
+
+## 💡 What Drives Me
+
+```python
+def what_drives_me():
+    return (
+        "Building software that's simple to use and genuinely useful — "
+        "and bringing that same problem-solving mindset to freelance "
+        "digital marketing work for clients around the world."
+    )
+```
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+
+### 💬 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📞 Connect With Me
+
+```python
+contact = {
+    "whatsapp":  "wa.me/+919641700503",
+    "linkedin":  "linkedin.com/in/engrshuvoda",
+    "github":    "github.com/engrshuvodas",
+    "email":     "engrshuvoda@gmail.com",
+    "youtube":   "youtube.com/channel/UCEJ0R871tF2PLT27q9azYWg",
+    "twitter":   "x.com/engrshuvodas",
+    "facebook":  "facebook.com/engr.shuvo74886",
+    "fiverr":    "fiverr.com/shuvo_das74886",
+    "portfolio": "engr-shuvo-portfolio.vercel.app"
+}
+```
+
+<div align="center">
+
+<a href="https://wa.me/+919641700503"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/engrshuvoda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:engrshuvoda@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/engrshuvodas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="https://www.youtube.com/channel/UCEJ0R871tF2PLT27q9azYWg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://x.com/engrshuvodas"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.facebook.com/engr.shuvo74886/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.fiverr.com/shuvo_das74886"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+
+<br/>
+
+<a href="https://engr-shuvo-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Know_Me_Better-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=65&desc=Let's%20Connect%20and%20Build%20Something%20Amazing!&descSize=15&descAlignY=85" width="100%"/>
+</div>
+
+<h4 align="center">🧑‍💻 Developed with dedication by
+  <a href="https://engr-shuvo-portfolio.vercel.app/" target="_blank">Engr Shuvo Das</a>
+</h4>
 
 
+<div align="center">
 
+**💼 Open to Work | 🚀 Turning Coffee & Code Into Real Products**
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/engrshuvodj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="engrshuvodj" /></a><a href="https://ko-fi.com/O5O7OT834"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="O5O7OT834" /></a></p><br><br>
-</br>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvelynKling/EvelynKling/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvelynKling/EvelynKling/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EvelynKling/EvelynKling/output/github-contribution-grid-snake.svg">
-</picture>
-
+</div>
