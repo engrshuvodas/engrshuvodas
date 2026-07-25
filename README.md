@@ -112,7 +112,7 @@ projects = [
      "link": "wasender-pro.vercel.app"},
 
     {"name": "TGTools",            "desc": "Telegram marketing automation suite",
-     "link": "github.com/engrshuvodas/TGTools-v1.0.0"},
+     "link": "https://tgtools-pro.vercel.app"},
 
     {"name": "Qualify Bulk Mailer","desc": "Email marketing and bulk campaign software",
      "link": "github.com/engrshuvodas/Qualify-Bulk-Mailer-v3.0"},
