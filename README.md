@@ -222,13 +222,4 @@ contact = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=65&desc=Let's%20Connect%20and%20Build%20Something%20Amazing!&descSize=15&descAlignY=85" width="100%"/>
 </div>
 
-<h4 align="center">🧑‍💻 Developed with dedication by
-  <a href="https://engr-shuvo-portfolio.vercel.app/" target="_blank">Engr Shuvo Das</a>
-</h4>
 
-
-<div align="center">
-
-**💼 Open to Work | 🚀 Turning Coffee & Code Into Real Products**
-
-</div>
